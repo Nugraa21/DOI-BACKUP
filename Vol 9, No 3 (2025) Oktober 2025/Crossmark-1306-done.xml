@@ -1,0 +1,46 @@
+<doi_batch xmlns="http://www.crossref.org/doi_resources_schema/4.3.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" xmlns:fr="http://www.crossref.org/fundref.xsd" version="4.3.6" xsi:schemaLocation="http://www.crossref.org/doi_resources_schema/4.3.6 http://www.crossref.org/schemas/doi_resources4.3.6.xsd">
+<head>
+<doi_batch_id>crossmark_batch</doi_batch_id>
+<depositor>
+<depositor_name>akakom</depositor_name>
+<email_address>ojs@akakom.ac.id</email_address>
+</depositor>
+</head>
+<body>
+<crossmark_data>
+<!-- the DOI being updated with Crossmark metadata -->
+<doi>10.26798/jiko.v8i2.1306</doi>
+<!-- Crossmark metadata (no updates) -->
+<crossmark>
+<crossmark_version>2</crossmark_version>
+<crossmark_policy>10.26798/jiko.v8i2.1306</crossmark_policy>
+<crossmark_domains>
+<crossmark_domain>
+<domain>ejournal.akakom.ac.id</domain>
+</crossmark_domain>
+</crossmark_domains>
+<crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+</crossmark>
+</crossmark_data>
+<crossmark_data>
+<!-- the DOI being updated with Crossmark metadata -->
+<doi>10.26798/jiko.v8i2.1306</doi>
+<!-- Crossmark metadata (with custom metadata) -->
+<crossmark>
+<crossmark_version>2</crossmark_version>
+<crossmark_policy>10.26798/jiko.v8i2.1306</crossmark_policy>
+<crossmark_domains>
+<crossmark_domain>
+<domain>ejournal.akakom.ac.id</domain>
+</crossmark_domain>
+</crossmark_domains>
+<crossmark_domain_exclusive>true</crossmark_domain_exclusive>
+<custom_metadata>
+                <assertion name="received" label="Received" group_name="publication_history" group_label="Publication History" order="0">2024-04-17</assertion>
+                <assertion name="accepted" label="Accepted" group_name="publication_history" group_label="Publication History" order="1">2024-06-03</assertion>
+                <assertion name="published" label="Published" group_name="publication_history" group_label="Publication History" order="2">2024-09-05</assertion>
+</custom_metadata>
+</crossmark>
+</crossmark_data>
+</body>
+</doi_batch>
